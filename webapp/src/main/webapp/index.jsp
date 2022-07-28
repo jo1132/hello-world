@@ -6,7 +6,7 @@
   <style>
     body {
       color: #ffffff;
-      background-color: green;
+      background-color: RED;
       font-family: Arial, sans-serif;
       font-size: 14px;
     }
@@ -24,11 +24,11 @@
 </head>
 <body>
   <div align="center">
-    <h1>TEST v2.0</h1>
+    <h1>TEST v3.0</h1>
     <br>
     <h2>This application was deployed using AWS ECS, EKS.</h2>
     <p>For next steps, read the <a href="https://aws.amazon.com/ko">AWS Management Console</a>.</p>
-    <p><img src="images/two-rabbit.jpg" alt="두마리 토끼" height="350"></p>
+    <p><img src="images/two-rabbit.jpg" alt="두마리 to끼" height="350"></p>
   </div>
 </body>
 </html>
