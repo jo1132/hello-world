@@ -9,7 +9,7 @@
         <title>Momentum App</title>
     </head>
     <body>
-        <a href="https://nomadcoders.co">Go to courses</a>
+        <a href="https://nomadcoders.co">Hello-world</a>
         <div id="weather">
             <span></span>
             <span></span>
