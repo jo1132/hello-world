@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=divice-width, initail-scale=1.0">
 	<!--<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>-->
         <link rel="stylesheet" href="css/style.css">
-        <title>test</title>
+        <title>EKS-server</title>
     </head>
     <body>
         <a href="https://nomadcoders.co">Hello-world</a>
